@@ -1,4 +1,4 @@
-package com.dataStructure.Sorting;
+package com.dataStructure.sorting;
 
 /**
  * User: Shawn cao

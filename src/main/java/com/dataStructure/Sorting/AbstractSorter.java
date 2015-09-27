@@ -1,8 +1,6 @@
-package com.dataStructure.Sorting;
+package com.dataStructure.sorting;
 
-import com.dataStructure.Helper.StdOut;
-
-import java.util.List;
+import com.dataStructure.helper.StdOut;
 
 /**
  * User: Shawn cao

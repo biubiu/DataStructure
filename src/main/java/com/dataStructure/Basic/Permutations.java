@@ -1,4 +1,4 @@
-package com.dataStructure.Basic;
+package com.dataStructure.basic;
 
 /**
  * User: Shawn cao

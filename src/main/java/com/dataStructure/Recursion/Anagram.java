@@ -1,4 +1,4 @@
-package com.dataStructure.Recursion;
+package com.dataStructure.recursion;
 
 public class Anagram {
 	

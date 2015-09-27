@@ -1,6 +1,4 @@
-package com.dataStructure.Sorting;
-
-import java.util.Arrays;
+package com.dataStructure.sorting;
 
 /**
  * User: Shawn cao

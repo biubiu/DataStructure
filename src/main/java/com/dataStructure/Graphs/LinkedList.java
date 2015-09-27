@@ -1,4 +1,4 @@
-package com.dataStructure.Graphs;
+package com.dataStructure.graphs;
 
 public class LinkedList<E> {
 	private Node<E> first;

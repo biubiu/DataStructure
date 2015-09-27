@@ -1,4 +1,4 @@
-package com.dataStructure.Sorting;
+package com.dataStructure.sorting;
 
 /**
  * User: Shawn cao
@@ -12,7 +12,14 @@ public class Insertion extends AbstractSorter {
         for(int i = 1; i < len ; i++){
             for( int j = i; j > 0 && less(arr[j],arr[j-1] ); j--){
                 exchange(arr , j-1 , j);
+                show(arr);
             }
+
         }
+    }
+
+    public static void main(String[] args){
+
+        new Insertion().sort(new Integer[]{15,33,34, 45, 77, 72, 80, 94, 29, 26});
     }
 }

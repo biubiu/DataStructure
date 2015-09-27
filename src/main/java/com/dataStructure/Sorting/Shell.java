@@ -1,4 +1,4 @@
-package com.dataStructure.Sorting;
+package com.dataStructure.sorting;
 
 /**
  * User: Shawn cao
@@ -21,8 +21,13 @@ public class Shell extends AbstractSorter {
                 }
 //                System.out.println("######");
             }
-//            System.out.println("====================");
+            super.show(arr);
             h = h/3 ;
         }
+    }
+
+    public static void main(String[] args){
+
+        new Shell().sort(new Integer[]{88, 26, 36, 67, 86, 82, 17, 78, 85, 60 });
     }
 }

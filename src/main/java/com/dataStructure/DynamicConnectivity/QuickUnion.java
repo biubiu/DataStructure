@@ -1,4 +1,4 @@
-package com.dataStructure.DynamicConnectivity;
+package com.dataStructure.dynamicConnectivity;
 
 /**
  * User: Shawn cao

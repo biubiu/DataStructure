@@ -1,13 +1,13 @@
 package com.dataStructure.test;
 
-import com.dataStructure.Basic.BinarySearch;
-import com.dataStructure.Basic.LinkedQueue;
-import com.dataStructure.Basic.LinkedStack;
-import com.dataStructure.Basic.Queue;
+import com.dataStructure.basic.BinarySearch;
+import com.dataStructure.basic.LinkedQueue;
+import com.dataStructure.basic.LinkedStack;
+import com.dataStructure.basic.Queue;
 
-import com.dataStructure.Helper.StdRandom;
-import com.dataStructure.Helper.Stopwatch;
-import com.dataStructure.Helper.StreamUtil;
+import com.dataStructure.helper.StdRandom;
+import com.dataStructure.helper.Stopwatch;
+import com.dataStructure.helper.StreamUtil;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;

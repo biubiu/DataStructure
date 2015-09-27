@@ -1,4 +1,4 @@
-package com.dataStructure.Sorting;
+package com.dataStructure.sorting;
 
 /**
  * User: Shawn cao
@@ -15,6 +15,7 @@ public class Selection extends AbstractSorter {
                 if(less(arr[j],arr[min])) min=j;
             }
             exchange(arr ,i,min);
+            show(arr);
         }
     }
 }

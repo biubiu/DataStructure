@@ -1,12 +1,10 @@
 package com.dataStructure.test;
 
-import com.dataStructure.Helper.SortCompare;
-import com.dataStructure.Helper.StdOut;
-import com.dataStructure.Sorting.*;
+import com.dataStructure.helper.SortCompare;
+import com.dataStructure.helper.StdOut;
+import com.dataStructure.sorting.*;
 import junit.framework.TestCase;
 import org.junit.Test;
-
-import java.util.Arrays;
 
 /**
  * User: Shawn cao
